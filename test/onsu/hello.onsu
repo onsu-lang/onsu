@@ -1,0 +1,10 @@
+import onsu.std;
+
+public class hello() {
+  public func greet(args, []) {
+    System.writeline("Hello, world!");
+  }
+}
+
+var run : new.Hello;
+Hello.greet();
