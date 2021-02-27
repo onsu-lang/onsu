@@ -1,2 +1,3 @@
 # onsu
-The official repository for the Ōnsu programming-language 
+
+The official repository for the Ōnsu, a procedural, object-oriented and pragmatic programming-language.
