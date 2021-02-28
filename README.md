@@ -3,7 +3,7 @@
 The official repository for the Ōnsu, a procedural, object-oriented and pragmatic programming-language for the jvm.
 Ōnsu was designed with the needs for an object-oriented language with elegant functional style. 
 
-Ōnsu features:
+**Ōnsu features:**
  - pragmatic type inference
  - optionally type-system
  - object-oriented features
