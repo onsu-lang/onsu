@@ -1,0 +1,6 @@
+package benchmarks.onsu;
+
+import org.onsu-lang.onsu.system;
+import org.onsu-lang.onsu.system.*;
+
+println("Hello, world!");
