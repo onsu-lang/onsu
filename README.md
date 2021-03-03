@@ -1,9 +1,9 @@
 # onsu
 
-The official repository for the Ōnsu, a procedural, object-oriented and pragmatic programming-language for the jvm.
-Ōnsu was designed with the needs for an object-oriented language with elegant functional style. 
+The official repository for the Onsu, a procedural, object-oriented and pragmatic programming-language for the jvm.
+Onsu was designed with the needs for an object-oriented language with elegant functional style. 
 
-**Ōnsu features:**
+**Onsu features:**
  - pragmatic type inference
  - optionally type-system
  - object-oriented features
@@ -18,7 +18,7 @@ The official repository for the Ōnsu, a procedural, object-oriented and pragmat
 
 ## Build instructions
 
-You need Java JDK 1.8 and Maven 3.x to build Ōnsu. Set the JAVA_HOME environment variable to JDK 1.8's home.
+You need Java JDK 1.8 and Maven 3.x to build Onsu. Set the JAVA_HOME environment variable to JDK 1.8's home.
 
 
 ## Licensing
